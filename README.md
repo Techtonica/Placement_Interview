@@ -167,7 +167,7 @@ In addition to problem-specific criteria, participants can expect to be evaluate
 
 ## Important Notes
 
-- This guide provides a high level breakdown of the placement interview process. Participants will choose which language (JavaScript or Python) they wish to conduct the interview. Any subject matter covered during the cohort is a potential subject-matter to be evaluated. The provided examples will not be asked during the interview, but are meant as a guide.
+- This guide provides a high level breakdown of the placement interview process. Participants will choose which language ([JavaScript](https://github.com/Techtonica/Placement_Interview/blob/main/javascript_example.md) or [Python](https://github.com/Techtonica/Placement_Interview/blob/main/python_example.md)) they wish to conduct the interview. Any subject matter covered during the cohort is a potential subject-matter to be evaluated. The provided examples will not be asked during the interview, but are meant as a guide.
 - There will be no breaks during the call, please prepare accordingly.
 - You can use a text editor of your choice.
 - Full screen-sharing will be required, not individual windows or tabs.
