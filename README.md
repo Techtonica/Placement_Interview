@@ -1,7 +1,6 @@
 # Final STEM Interview
 
 ## Purpose and Intent
-
 The primary intent of this final STEM technical interview format is to provide a standardized, objective assessment of a participant's technical proficiency in a live environment. This format serves distinct purposes that align with industry standards while complementing the program's existing evaluation components.
 
 ## Interview Components
@@ -16,9 +15,8 @@ The primary intent of this final STEM technical interview format is to provide a
    - [Measuring Technical Proficiency Live](#measuring-technical-proficiency-live)
    - [Evaluation Framework and Rubric](#evaluation-framework-and-rubric)
    - [Integration with Overall Assessment](#integration-with-overall-assessment)
-3. [Program's Holistic Evaluation Framework](#programs-holistic-evaluation-framework)
-4. [Benefits of This Integrated Approach](#benefits-of-this-integrated-approach)
-5. [Important Notes](#important-notes)
+3. [Benefits of This Integrated Approach](#benefits-of-this-integrated-approach)
+4. [Important Notes](#important-notes)
 
 ## Why Live Technical Assessment Matters
 
@@ -39,17 +37,16 @@ This interview format aligns with industry standards while being tailored to pro
 In industry settings, technical interviews typically occur as part of a multi-round process. Our program mirrors this approach with important adaptations:
 
 1. **Initial Screening (Project Building & Mock Interviews)**:
-
    - Participants' ability to build functional applications demonstrates baseline technical capabilities
    - Previous mock interviews establish fundamental interview skills and identify areas for growth
    - This phase serves the same purpose as resume screening and initial technical assessments in industry
-2. **Technical Assessment (Final STEM Interview)**:
 
+2. **Technical Assessment (Final STEM Interview)**:
    - Standardized evaluation of live technical problem-solving abilities
    - Verification of fundamental knowledge and application of concepts
    - Assessment of code quality and implementation skills under time constraints
-3. **Culture Fit Evaluation (Program Participation)**:
-
+  
+3. **Associate to Entry-Level Team Member Appropriate (Program Participation)**:
    - Ongoing assessment of non-technical skills throughout the program
    - Evaluation of collaboration, communication, resilience, and growth mindset
    - Observation of how participants engage with peers, mentors, and program requirements
@@ -156,6 +153,20 @@ In addition to problem-specific criteria, participants can expect to be evaluate
 - Excellent balance between independent work and appropriate clarification seeking.
 - Proactively considers how solutions would impact team workflows.
 
+### 7. Program Participation
+
+- Associate or entry-level performance
+- Instruction Following
+- Curiosity
+- Growth Orientation
+- Humility
+- Teamwork
+- Communication
+- Vulnerability & Resilience
+- Autonomy
+- Collaboration & Team-Ready
+- Confidence
+
 ### Integration with Overall Assessment
 
 The technical proficiency assessment integrates with the culture fit evaluation to provide a comprehensive picture of a candidate's potential:
@@ -164,80 +175,6 @@ The technical proficiency assessment integrates with the culture fit evaluation 
 - **Professional attributes** indicate how they will apply those skills in a team environment
 
 Together, these assessments provide a holistic view that better predicts on-the-job success than either component alone.
-
-## Program's Holistic Evaluation Framework
-
-### Project Building as Initial Screening
-
-While traditional companies use resume screening and take-home assignments, our program uses:
-
-- **Application Building**: Demonstrates technical capabilities through completed projects
-- **Code Quality Review**: Evaluates coding standards and implementation approaches
-- **Technical Growth**: Shows progression of skills over time through increasingly complex projects
-
-This approach provides deeper insights than traditional screening methods while giving participants valuable hands-on experience.
-
-### Program Participation as Culture Fit Assessment
-
-Rather than relying on a single culture fit interview, our program evaluates all key professional attributes through ongoing participation:
-
-1. Associate or Entry-Level Performance
-
-   - **Observable Indicators**: Consistent completion of assignments at expected quality levels
-   - **Assessment Method**: Tracking project completion rates and quality metrics
-   - **Industry Relevance**: Demonstrates ability to meet baseline performance expectations
-2. Instruction Following
-
-   - **Observable Indicators**: Adherence to project requirements and program guidelines
-   - **Assessment Method**: Evaluating alignment between instructions and deliverables
-   - **Industry Relevance**: Shows ability to understand and implement requirements accurately
-3. Curiosity
-
-   - **Observable Indicators**: Asking insightful questions, exploring beyond minimum requirements
-   - **Assessment Method**: Tracking engagement in learning opportunities and independent exploration
-   - **Industry Relevance**: Indicates potential for continuous learning and innovation
-4. Growth Orientation
-
-   - **Observable Indicators**: Implementing feedback, seeking improvement, embracing challenges
-   - **Assessment Method**: Comparing work quality over time and response to feedback
-   - **Industry Relevance**: Predicts adaptability and long-term development potential
-5. Humility
-
-   - **Observable Indicators**: Acknowledging limitations, seeking help appropriately, crediting others
-   - **Assessment Method**: Observing interactions with peers and mentors
-   - **Industry Relevance**: Facilitates team cohesion and continuous improvement
-6. Teamwork
-
-   - **Observable Indicators**: Contributing effectively to group projects, supporting peers
-   - **Assessment Method**: Peer feedback and observation of group dynamics
-   - **Industry Relevance**: Essential for collaborative workplace environments
-7. Communication
-
-   - **Observable Indicators**: Clear articulation of ideas, effective documentation, appropriate questioning
-   - **Assessment Method**: Evaluating written and verbal communications throughout the program
-   - **Industry Relevance**: Critical for collaboration, client interaction, and knowledge sharing
-8. Vulnerability & Resilience
-
-   - **Observable Indicators**: Openness about challenges, persistence through difficulties
-   - **Assessment Method**: Tracking response to setbacks and willingness to seek help
-   - **Industry Relevance**: Predicts ability to handle workplace challenges and stress
-9. Autonomy
-
-   - **Observable Indicators**: Self-direction, initiative, problem-solving without excessive guidance
-   - **Assessment Method**: Evaluating independence in project work and learning
-   - **Industry Relevance**: Essential for roles requiring self-management and ownership
-10. Collaboration & Team-Readiness
-
-    - **Observable Indicators**: Effective participation in group settings, contribution to shared goals
-    - **Assessment Method**: Peer evaluations and observation of collaborative projects
-    - **Industry Relevance**: Directly translates to workplace team integration
-11. Confidence
-
-    - **Observable Indicators**: Appropriate self-advocacy, willingness to take on challenges
-    - **Assessment Method**: Observing participation in discussions and approach to new tasks
-    - **Industry Relevance**: Supports effective workplace communication and leadership potential
-
-This comprehensive assessment across all dimensions provides a more nuanced and accurate picture of a candidate's professional attributes than traditional interview approaches.
 
 ## Benefits of This Integrated Approach
 
@@ -262,7 +199,3 @@ This comprehensive assessment across all dimensions provides a more nuanced and 
 - You can use a text editor of your choice.
 - Full screen-sharing will be required, not individual windows or tabs.
 - Notification statements about eligibility for placement will be announced via individual slack messages on the Monday following final interview with STEM week, prior to a cohort channel message. The individual message will include a statement of placement eligibility or placement ineligibility, scores will not be included.
-
-## Conclusion
-
-This technical interview format serves as a critical component in a comprehensive evaluation process that mirrors industry standards while providing additional depth. By combining project-based screening, live technical assessment, and ongoing culture fit evaluation through program participation, we create a more thorough and fair assessment that prepares participants for their future careers while providing meaningful evaluation data.
