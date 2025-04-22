@@ -10,7 +10,7 @@ The primary intent of this final STEM technical interview format is to provide a
 - Code Challenge (40 minutes): A problem-solving exercise with starter code asking you to debug, fix, or build a prospective solution to the stated prompt
 
 ## Table of Contents
-1. [Why Live Technical Assessment Matters]()
+1. [Why Live Technical Assessment Matters](#why-live-technical-assessment-matters)
 2. [Industry Alignment and Program Integration]
 3. [Comprehensive Multi-phase Evaluation Process]()
 4. [Measuring Technical Proficiency Live]()
