@@ -132,26 +132,7 @@ In addition to problem-specific criteria, participants can expect to be evaluate
 - Understands performance implications of different approaches.
 - Demonstrates awareness of recent developments in relevant technologies.
 
-### 5. Communication
-
-- Provides exceptionally clear explanations of complex concepts in accessible terms.
-- Articulates thought process with precision and logical flow.
-- Discusses trade-offs with nuanced understanding.
-- Justifies design decisions with compelling rationale.
-- Receives feedback constructively and incorporates it effectively.
-- Maintains professional demeanor throughout.
-- Adapts communication style based on context.
-
-### 6. Team Collaboration
-
-- Demonstrates outstanding patience and understanding during interactions.
-- Exceptional ability to adapt communication style based on context.
-- Strong team-oriented mindset evident in approach to problems.
-- Highly receptive to suggestions with thoughtful incorporation of feedback.
-- Excellent balance between independent work and appropriate clarification seeking.
-- Proactively considers how solutions would impact team workflows.
-
-### 7. Program Participation
+### 5. Program Participation
 
 - Associate or entry-level performance
 - Instruction Following
