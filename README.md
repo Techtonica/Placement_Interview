@@ -1,4 +1,4 @@
-# Final_STEM_Interview
+# Final STEM Interview
 
 ## Purpose and Intent
 
@@ -9,7 +9,18 @@ The primary intent of this final STEM technical interview format is to provide a
 - Conceptual Questions (15 minutes): Technical knowledge assessment
 - Code Challenge (40 minutes): A problem-solving exercise with starter code asking you to debug, fix, or build a prospective solution to the stated prompt
 
-### Why Live Technical Assessment Matters
+## Table of Contents
+1. [Why Live Technical Assessment Matters]()
+2. [Industry Alignment and Program Integration]
+3. [Comprehensive Multi-phase Evaluation Process]()
+4. [Measuring Technical Proficiency Live]()
+5. [Evaluation Framework and Rubric]()
+6. [Integration with Overall Assessment]()
+7. [Program's Holistic Evaluation Framework]()
+8. [Benefits of This Integrated Approach]()
+9. [Important Notes]()
+
+## Why Live Technical Assessment Matters
 
 Even for participants with substantial project experience, live technical assessment provides unique insights that cannot be obtained through portfolio review alone:
 
@@ -23,7 +34,7 @@ Even for participants with substantial project experience, live technical assess
 
 This interview format aligns with industry standards while being tailored to provide a fair and comprehensive assessment within the context of your program:
 
-### Comprehensive Multi-phase Evaluation Process
+## Comprehensive Multi-phase Evaluation Process
 
 In industry settings, technical interviews typically occur as part of a multi-round process. Our program mirrors this approach with important adaptations:
 
@@ -46,7 +57,7 @@ In industry settings, technical interviews typically occur as part of a multi-ro
 
 This integrated approach provides a more comprehensive evaluation than typical industry processes while preparing participants for the standards they'll encounter in their job search.
 
-### Measuring Technical Proficiency Live
+## Measuring Technical Proficiency Live
 
 The format comprehensively measures technical proficiency through two complementary components, each designed to evaluate specific aspects of technical capability:
 
@@ -89,92 +100,8 @@ Problem-Solving Assessment
 - **Handling of Edge Cases**: Consideration and handling of boundary conditions and exceptional scenarios
 - **Debugging and Troubleshooting**: Ability to identify and fix issues in the code during implementation
 
-### Technical Interview Intent and Industry Alignment
-
-## Purpose and Intent
-
-The primary intent of this technical interview format is to provide a standardized, objective assessment of a candidate's technical proficiency in a live environment. This format serves distinct purposes that align with industry standards while complementing the program's existing evaluation components.
-
-### Why Live Technical Assessment Matters
-
-Even for candidates with substantial project experience, live technical assessment provides unique insights that cannot be obtained through portfolio review alone:
-
-1. **Real-time Problem-solving**: Evaluates how candidates think and solve problems under time constraints, similar to real workplace scenarios.
-2. **Technical Communication**: Assesses a candidate's ability to articulate technical concepts and explain their thought process clearly—a critical skill for effective collaboration.
-3. **Adaptability**: Tests how candidates respond to new problems they haven't previously encountered or prepared for.
-4. **Fundamental Knowledge Verification**: Confirms that candidates truly understand core concepts rather than having simply followed tutorials or received extensive help on their projects.
-5. **Stress Management**: Evaluates how candidates perform under pressure, which is often unavoidable in professional settings.
-
-## Industry Alignment and Program Integration
-
-This interview format aligns with industry standards while being tailored to provide a fair and comprehensive assessment within the context of your program:
-
-### Comprehensive Multi-phase Evaluation Process
-
-In industry settings, technical interviews typically occur as part of a multi-round process. Our program mirrors this approach with important adaptations:
-
-1. **Initial Screening (Project Building & Mock Interviews)**:
-2. Participants' ability to build functional applications demonstrates baseline technical capabilities
-3. Previous mock interviews establish fundamental interview skills and identify areas for growth
-4. This phase serves the same purpose as resume screening and initial technical assessments in industry
-5. **Technical Assessment (This Format)**:
-6. Standardized evaluation of live technical problem-solving abilities
-7. Verification of fundamental knowledge and application of concepts
-8. Assessment of code quality and implementation skills under time constraints
-9. **Culture Fit Evaluation (Program Participation)**:
-10. Ongoing assessment of non-technical skills throughout the program
-11. Comprehensive evaluation across all key professional attributes
-12. Observation of how participants engage with peers, mentors, and program requirements
-13. This parallel assessment replaces dedicated culture fit interviews in traditional processes
-
-This integrated approach provides a more comprehensive evaluation than typical industry processes while preparing participants for the standards they'll encounter in their job search.
-
-### Measuring Technical Proficiency Live
-
-The format comprehensively measures technical proficiency through two complementary components, each designed to evaluate specific aspects of technical capability:
-
-#### 1. Comprehension Questions (15 minutes)
-
-This component primarily assesses **Technical Knowledge** and **Communication**:
-
-##### Technical Knowledge Assessment
-
-- **Depth of Understanding**: Probing questions that require explaining concepts beyond surface-level definitions
-- **Breadth Across Relevant Topics**: Questions spanning language fundamentals, frameworks, and programming paradigms
-- **Application of Concepts**: Scenarios requiring candidates to explain how concepts apply in practical situations
-- **Programming Logic**: Questions testing understanding of control flow, data structures, and algorithmic thinking
-
-##### Communication Assessment
-
-- **Clarity of Explanations**: Ability to explain technical concepts in clear, concise language
-- **Articulation of Thought Process**: Demonstration of logical reasoning when working through conceptual problems
-- **Ability to Discuss Trade-offs**: Recognition and explanation of advantages and disadvantages of different approaches
-
-#### 2. Code Challenge (40 minutes)
-
-This component primarily assesses **Technical Implementation**, **Code Quality**, and **Problem-Solving**:
-
-##### Technical Implementation Assessment
-
-- **Completeness and Correctness**: Whether the solution fulfills all requirements and produces correct outputs
-- **Efficiency and Optimization**: Appropriate use of algorithms and data structures for optimal performance
-- **Approach to the Problem**: Overall strategy and methodology used to tackle the challenge
-
-##### Code Quality Assessment
-
-- **Organization and Structure**: Logical code organization, appropriate modularization, and clear structure
-- **Readability and Maintainability**: Meaningful variable names, consistent formatting, and helpful comments
-- **Adherence to Best Practices**: Following language conventions, design patterns, and industry standards
-
-##### Problem-Solving Assessment
-
-- **Systematic Approach**: Methodical breakdown of the problem into manageable components
-- **Handling of Edge Cases**: Consideration and handling of boundary conditions and exceptional scenarios
-- **Debugging and Troubleshooting**: Ability to identify and fix issues in the code during implementation
-
 ## Evaluation Framework and Rubric
-
-Each technical proficiency area is evaluated on Techtonica's 4-point scale:
+In addition to problem-specific criteria, participants can expect to be evaluated on the following areas using Techtonica’s usual 4-point scale for each area assessed (1 = Disagree, 2 = Somewhat Disagree, 3 = Somewhat Agree, 4 = Agree).
 
 ### 1. Technical Implementation
 
