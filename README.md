@@ -1,7 +1,7 @@
-# Final STEM Interview
+# Placement Interview
 
 ## Purpose and Intent
-The primary intent of this final STEM technical interview format is to provide a standardized, objective assessment of a participant's technical proficiency in a live environment. This format serves distinct purposes that align with industry standards while complementing the program's existing evaluation components.
+The primary intent of this placement interview format is to provide a standardized, objective assessment of a participant's technical proficiency in a live environment. This format serves distinct purposes that align with industry standards while complementing the program's existing evaluation components.
 
 ## Interview Components
 
@@ -39,7 +39,7 @@ In industry settings, technical interviews typically occur as part of a multi-ro
    - Previous mock interviews establish fundamental interview skills and identify areas for growth
    - This phase serves the same purpose as resume screening and initial technical assessments in industry
 
-2. **Technical Assessment (Final STEM Interview)**:
+2. **Technical Assessment (Placement Interview)**:
    - Standardized evaluation of live technical problem-solving abilities
    - Verification of fundamental knowledge and application of concepts
    - Assessment of code quality and implementation skills under time constraints
@@ -167,8 +167,8 @@ In addition to problem-specific criteria, participants can expect to be evaluate
 
 ## Important Notes
 
-- This guide provides a high level breakdown of the STEM interview process. Participants will choose which language (JavaScript or Python) they wish to conduct the interview. Any subject matter covered during the cohort is a potential subject-matter to be evaluated. The provided examples will not be asked during the interview, but are meant as a guide.
+- This guide provides a high level breakdown of the placement interview process. Participants will choose which language (JavaScript or Python) they wish to conduct the interview. Any subject matter covered during the cohort is a potential subject-matter to be evaluated. The provided examples will not be asked during the interview, but are meant as a guide.
 - There will be no breaks during the call, please prepare accordingly.
 - You can use a text editor of your choice.
 - Full screen-sharing will be required, not individual windows or tabs.
-- Notification statements about eligibility for placement will be announced via individual slack messages on the Monday following final interview with STEM week, prior to a cohort channel message. The individual message will include a statement of placement eligibility or placement ineligibility, scores will not be included.
+- Notification statements about eligibility for placement will be announced via individual slack messages on the Monday following placement interviews week, prior to a cohort channel message. The individual message will include a statement of placement eligibility or placement ineligibility, scores will not be included.
