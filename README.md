@@ -132,7 +132,7 @@ In addition to problem-specific criteria, participants can expect to be evaluate
 - Understands performance implications of different approaches.
 - Demonstrates awareness of recent developments in relevant technologies.
 
-### 5. Communication (during interview)
+### 5. Communication
 
 - Provides exceptionally clear explanations of complex concepts in accessible terms.
 - Articulates thought process with precision and logical flow.
@@ -142,7 +142,7 @@ In addition to problem-specific criteria, participants can expect to be evaluate
 - Maintains professional demeanor throughout.
 - Adapts communication style based on context.
 
-### 6. Collaboration (during interview)
+### 6. Collaboration
 
 - Demonstrates outstanding patience and understanding during interactions.
 - Exceptional ability to adapt communication style based on context.
