@@ -11,14 +11,14 @@ The primary intent of this final STEM technical interview format is to provide a
 
 ## Table of Contents
 1. [Why Live Technical Assessment Matters](#why-live-technical-assessment-matters)
-2. [Industry Alignment and Program Integration]
-3. [Comprehensive Multi-phase Evaluation Process]()
-4. [Measuring Technical Proficiency Live]()
-5. [Evaluation Framework and Rubric]()
-6. [Integration with Overall Assessment]()
-7. [Program's Holistic Evaluation Framework]()
-8. [Benefits of This Integrated Approach]()
-9. [Important Notes]()
+2. [Industry Alignment and Program Integration](#industry-alignment)
+3. [Comprehensive Multi-phase Evaluation Process](#multi-phase-evaluation)
+4. [Measuring Technical Proficiency Live](#technical-proficiency)
+5. [Evaluation Framework and Rubric](#evaluation-framework)
+6. [Integration with Overall Assessment](#overall-assessment)
+7. [Program's Holistic Evaluation Framework](#holistic-framework)
+8. [Benefits of This Integrated Approach](#integrated-benefits)
+9. [Important Notes](#important-notes)
 
 ## Why Live Technical Assessment Matters
 
