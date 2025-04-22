@@ -12,13 +12,13 @@ The primary intent of this final STEM technical interview format is to provide a
 ## Table of Contents
 1. [Why Live Technical Assessment Matters](#why-live-technical-assessment-matters)
 2. [Industry Alignment and Program Integration](#industry-alignment-and-program-integration)
-3. [Comprehensive Multi-phase Evaluation Process](#comprehensive-multi-phase-evaluation-process)
-4. [Measuring Technical Proficiency Live](#measuring-technical-proficiency-live)
-5. [Evaluation Framework and Rubric](#evaluation-framework-and-rubric)
-6. [Integration with Overall Assessment](#integration-with-overall-assessment)
-7. [Program's Holistic Evaluation Framework](#programs-holistic-evaluation-framework)
-8. [Benefits of This Integrated Approach](#benefits-of-this-integrated-approach)
-9. [Important Notes](#important-notes)
+   - [Comprehensive Multi-phase Evaluation Process](#comprehensive-multi-phase-evaluation-process)
+   - [Measuring Technical Proficiency Live](#measuring-technical-proficiency-live)
+   - [Evaluation Framework and Rubric](#evaluation-framework-and-rubric)
+   - [Integration with Overall Assessment](#integration-with-overall-assessment)
+3. [Program's Holistic Evaluation Framework](#programs-holistic-evaluation-framework)
+4. [Benefits of This Integrated Approach](#benefits-of-this-integrated-approach)
+5. [Important Notes](#important-notes)
 
 ## Why Live Technical Assessment Matters
 
@@ -34,7 +34,7 @@ Even for participants with substantial project experience, live technical assess
 
 This interview format aligns with industry standards while being tailored to provide a fair and comprehensive assessment within the context of your program:
 
-## Comprehensive Multi-phase Evaluation Process
+### Comprehensive Multi-phase Evaluation Process
 
 In industry settings, technical interviews typically occur as part of a multi-round process. Our program mirrors this approach with important adaptations:
 
@@ -57,7 +57,7 @@ In industry settings, technical interviews typically occur as part of a multi-ro
 
 This integrated approach provides a more comprehensive evaluation than typical industry processes while preparing participants for the standards they'll encounter in their job search.
 
-## Measuring Technical Proficiency Live
+### Measuring Technical Proficiency Live
 
 The format comprehensively measures technical proficiency through two complementary components, each designed to evaluate specific aspects of technical capability:
 
@@ -156,7 +156,7 @@ In addition to problem-specific criteria, participants can expect to be evaluate
 - Excellent balance between independent work and appropriate clarification seeking.
 - Proactively considers how solutions would impact team workflows.
 
-## Integration with Overall Assessment
+### Integration with Overall Assessment
 
 The technical proficiency assessment integrates with the culture fit evaluation to provide a comprehensive picture of a candidate's potential:
 
