@@ -14,7 +14,6 @@ The primary intent of this final STEM technical interview format is to provide a
    - [Comprehensive Multi-phase Evaluation Process](#comprehensive-multi-phase-evaluation-process)
    - [Measuring Technical Proficiency Live](#measuring-technical-proficiency-live)
    - [Evaluation Framework and Rubric](#evaluation-framework-and-rubric)
-   - [Integration with Overall Assessment](#integration-with-overall-assessment)
 3. [Important Notes](#important-notes)
 
 ## Why Live Technical Assessment Matters
@@ -29,7 +28,7 @@ Even for participants with substantial project experience, live technical assess
 
 ## Industry Alignment and Program Integration
 
-This interview format aligns with industry standards while being tailored to provide a fair and comprehensive assessment within the context of your program:
+This interview format aligns with industry standards while being tailored to provide a fair and comprehensive assessment within the context of the program:
 
 ### Comprehensive Multi-phase Evaluation Process
 
@@ -51,7 +50,7 @@ In industry settings, technical interviews typically occur as part of a multi-ro
    - Observation of how participants engage with peers, mentors, and program requirements
    - This parallel assessment replaces dedicated culture fit interviews in traditional processes
 
-This integrated approach provides a more comprehensive evaluation than typical industry processes while preparing participants for the standards they'll encounter in their job search.
+This integrated approach provides a more comprehensive evaluation than typical industry processes while preparing participants for the standards encountered in their job search.
 
 ### Measuring Technical Proficiency Live
 
@@ -115,7 +114,7 @@ In addition to problem-specific criteria, participants can expect to be evaluate
 - Follows all language-specific conventions and design patterns.
 - Maintains consistent formatting and style throughout.
 
-3. Problem-Solving
+### 3. Problem-Solving
 
 - Demonstrates exceptional systematic approach, breaking complex problems into logical components.
 - Proactively tests with comprehensive edge cases.
@@ -165,15 +164,6 @@ In addition to problem-specific criteria, participants can expect to be evaluate
 - Autonomy
 - Collaboration & Team-Ready
 - Confidence
-
-### Integration with Overall Assessment
-
-The technical proficiency assessment integrates with the culture fit evaluation to provide a comprehensive picture of a candidate's potential:
-
-- **Technical skills** demonstrate what a candidate can do
-- **Professional attributes** indicate how they will apply those skills in a team environment
-
-Together, these assessments provide a holistic view that better predicts on-the-job success than either component alone.
 
 ## Important Notes
 
