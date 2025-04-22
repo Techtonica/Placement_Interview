@@ -178,63 +178,56 @@ Each technical proficiency area is evaluated on Techtonica's 4-point scale:
 
 ### 1. Technical Implementation
 
-**Level 4: Exceptional Implementation** Solution is complete and correct with optimal performance considerations. Demonstrates sophisticated approach to variable initialization and memory management. Offers multiple alternative solutions with clear trade-offs. Implements robust data integrity measures where applicable. Code runs efficiently with consideration of time/space complexity.
-
-**Level 3: Strong Implementation** Solution is complete and correct with good optimization. Shows appropriate variable initialization and memory usage. Can discuss at least one alternative approach when prompted. Implements basic data integrity measures. Considers performance implications for most operations.
-
-**Level 2: Adequate Implementation** Solution is mostly complete with minor issues in correctness or efficiency. Variable initialization is functional but not optimal. Limited awareness of alternative approaches. Basic consideration of performance with some oversights. Minimal attention to data integrity.
-
-**Level 1: Limited Implementation** Solution is incomplete or contains significant errors. Poor variable initialization practices. Unable to offer alternative approaches. No consideration of performance implications or data integrity. Implementation demonstrates fundamental misunderstandings.
+- Solution is complete and correct with optimal performance considerations.
+- Demonstrates sophisticated approach from variable initialization to memory management.
+- Offers multiple alternative solutions with clear trade-offs.
+- Implements robust data integrity measures, if applicable.
+- Code runs efficiently with consideration of time/space complexity.
 
 ### 2. Code Quality
 
-**Level 4: Exceptional Quality** Code is exceptionally well-organized with consistent, meaningful variable naming conventions. Comments are strategic, explaining "why" not just "what." Excellent modularization with clear separation of concerns. Follows all language-specific conventions and design patterns. Maintains consistent formatting and style throughout.
+- Code is exceptionally well-organized with consistent, meaningful variable naming conventions.
+- Comments are strategic, explaining "why" not just "what."
+- Excellent modularization with clear separation of concerns.
+- Follows all language-specific conventions and design patterns.
+- Maintains consistent formatting and style throughout.
 
-**Level 3: Strong Quality** Code is well-structured with good variable naming. Appropriate comments for complex sections. Good modularization and organization. Follows most language-specific conventions. Maintains consistent formatting with minor inconsistencies. Demonstrates awareness of design patterns.
+3. Problem-Solving
 
-**Level 2: Adequate Quality** Code has adequate organization but inconsistent variable naming. Basic comments that sometimes state the obvious. Limited modularization. Follows some language-specific conventions. Formatting is mostly consistent with some issues. Limited application of design patterns.
-
-**Level 1: Limited Quality** Code lacks proper organization with poor variable naming. Missing or unhelpful comments. No meaningful modularization. Ignores language-specific conventions. Inconsistent formatting and style. No evidence of design pattern awareness.
-
-### 3. Problem-Solving
-
-**Level 4: Exceptional Problem-Solving** Demonstrates exceptional systematic approach, breaking complex problems into logical components. Proactively tests with comprehensive edge cases. Employs sophisticated debugging methodology with efficient isolation of issues. Learns quickly from mistakes and adapts approach accordingly. Methodically validates solution at each step. Considers multiple approaches before implementation.
-
-**Level 3: Strong Problem-Solving** Shows good systematic approach to problem decomposition. Tests with most common edge cases. Employs effective debugging techniques. Learns from mistakes when pointed out. Validates critical parts of the solution. Considers at least one alternative approach during implementation.
-
-**Level 2: Adequate Problem-Solving** Basic problem decomposition with some structure. Tests with obvious edge cases but misses subtle ones. Basic debugging skills with some trial and error. Limited adaptation after mistakes. Occasional validation of solution. Focuses on single approach with limited consideration of alternatives.
-
-**Level 1: Limited Problem-Solving** Struggles to break down problems systematically. Fails to test edge cases. Ineffective debugging with random changes. Repeats same mistakes. No validation of solution. Unable to consider alternative approaches even when suggested.
+- Demonstrates exceptional systematic approach, breaking complex problems into logical components.
+- Proactively tests with comprehensive edge cases.
+- Employs sophisticated debugging methodology with efficient isolation of issues.
+- Learns quickly from mistakes and adapts approach accordingly.
+- Methodically validates solution at each step.
+- Considers multiple approaches before implementation.
 
 ### 4. Technical Knowledge
 
-**Level 4: Exceptional Knowledge** Demonstrates deep understanding of language features and ecosystem. Shows comprehensive knowledge of database relationships, normalization principles, and schema design when applicable. Can explain concepts from first principles. Applies theoretical knowledge to practical scenarios fluently. Understands performance implications of different approaches. Demonstrates awareness of recent developments in relevant technologies.
-
-**Level 3: Strong Knowledge** Shows solid understanding of language features. Good knowledge of database concepts including relationships and basic normalization when applicable. Can explain most concepts clearly. Effectively applies knowledge to solve problems. Understands basic performance considerations. Familiar with common patterns and practices in the field.
-
-**Level 2: Adequate Knowledge** Displays basic understanding of common language features. Limited knowledge of database concepts with some understanding of relationships. Can explain simple concepts but struggles with complex ones. Applies knowledge in straightforward scenarios. Limited awareness of performance considerations. Familiar with basic patterns.
-
-**Level 1: Limited Knowledge** Shows significant gaps in understanding of language fundamentals. Minimal knowledge of database concepts if applicable. Unable to explain basic programming concepts clearly. Struggles to apply knowledge to solve problems. No awareness of performance considerations. Unfamiliar with common patterns and practices.
+- Demonstrates deep understanding of language features and ecosystem.
+- Shows comprehensive knowledge of database relationships, normalization principles, and schema design, if applicable.
+- Can explain concepts from first principles.
+- Applies theoretical knowledge to practical scenarios fluently.
+- Understands performance implications of different approaches.
+- Demonstrates awareness of recent developments in relevant technologies.
 
 ### 5. Communication
 
-**Level 4: Exceptional Communication** Provides exceptionally clear explanations of complex concepts in accessible terms. Articulates thought process with precision and logical flow. Discusses trade-offs with nuanced understanding. Justifies design decisions with compelling rationale. Receives feedback constructively and incorporates it effectively. Maintains professional demeanor throughout. Adapts communication style based on context.
-
-**Level 3: Strong Communication** Provides clear explanations of technical concepts. Well-articulated thought process with good logical flow. Discusses main trade-offs effectively. Justifies most design decisions clearly. Accepts feedback positively. Maintains professional communication throughout. Shows some adaptation in communication style.
-
-**Level 2: Adequate Communication** Somewhat clear explanations with occasional confusion. Basic articulation of thought process. Limited discussion of trade-offs. Provides simple justifications for design decisions. Accepts feedback but may become defensive. Generally professional with occasional lapses. Limited adaptation in communication style.
-
-**Level 1: Limited Communication** Unclear explanations even for simple concepts. Poorly articulated thought process with illogical jumps. Unable to discuss trade-offs meaningfully. Cannot justify design decisions clearly. Resistant to feedback. Unprofessional communication at times. No adaptation in communication style.
+- Provides exceptionally clear explanations of complex concepts in accessible terms.
+- Articulates thought process with precision and logical flow.
+- Discusses trade-offs with nuanced understanding.
+- Justifies design decisions with compelling rationale.
+- Receives feedback constructively and incorporates it effectively.
+- Maintains professional demeanor throughout.
+- Adapts communication style based on context.
 
 ### 6. Team Collaboration
 
-**Level 4: Exceptional Collaboration** Demonstrates outstanding patience and understanding during interactions. Exceptional ability to adapt communication style based on context. Strong team-oriented mindset evident in approach to problems. Highly receptive to suggestions with thoughtful incorporation of feedback. Excellent balance between independent work and appropriate clarification seeking. Proactively considers how solutions would impact team workflows.
-
-**Level 3: Strong Collaboration** Shows good patience and understanding during interactions. Adapts communication style effectively when needed. Demonstrates team-oriented mindset in problem approach. Receptive to suggestions and incorporates most feedback. Good balance between independence and seeking clarification. Considers team impact for major decisions.
-
-**Level 2: Adequate Collaboration** Displays basic patience with occasional signs of frustration. Some adaptation in communication style. Shows awareness of team considerations. Accepts suggestions but selective in incorporating feedback. Sometimes works too independently or seeks excessive clarification. Limited consideration of team impact.
-
-**Level 1: Limited Collaboration** Shows impatience or frustration during interactions. Rigid communication style with no adaptation. Individual-focused approach with little team awareness. Dismissive of suggestions or feedback. Either completely independent with no clarification or overly dependent. No consideration of team impact.
+- Demonstrates outstanding patience and understanding during interactions.
+- Exceptional ability to adapt communication style based on context.
+- Strong team-oriented mindset evident in approach to problems.
+- Highly receptive to suggestions with thoughtful incorporation of feedback.
+- Excellent balance between independent work and appropriate clarification seeking.
+- Proactively considers how solutions would impact team workflows.
 
 ## Integration with Overall Assessment
 
